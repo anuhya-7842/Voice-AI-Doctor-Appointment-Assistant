@@ -52,7 +52,7 @@ voice-doctor-assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/anuhya-7842/Voice-AI-Doctor-Appointment-Assistant.git
 cd voice-doctor-assistant
 ```
 
